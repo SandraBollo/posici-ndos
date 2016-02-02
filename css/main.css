@@ -3,6 +3,7 @@
 	width: 250px;
     height: 250px;
     position: static;
+    border: 20px black double;
 
    
 }
@@ -37,6 +38,7 @@
 	margin-top: 50px;
 	top: 50px;
 	margin-top:300px;
+	border: double 20px black;
 	
 }
 .verde{
@@ -60,7 +62,6 @@
 	right: 0px;
 	left: 0px;
 
-
-
 }
+body{ background-image: url(http://www.mifondodepantallagratis.net/cartoons/wallpapers/jake-by-slid3.jpg);}
 
